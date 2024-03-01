@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Dunno yet
 - 📫 How to reach me ...
 - 😄 Pronouns: She
-- ⚡ Fun fact: Total newbie but looking forward to learning and advancing in coding!
+- ⚡ Fun fact: Total newbie but looking forward to learning and advancing!
 
 <!---
 EmelieLje/EmelieLje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
